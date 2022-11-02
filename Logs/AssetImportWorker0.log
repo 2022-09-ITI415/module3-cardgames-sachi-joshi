@@ -494,3 +494,51 @@ Received Import Request.
   path: Assets/Prospector/__Scripts/Card.cs
   artifactKey: Guid(100a12af089e19845beeba3dc7d93c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prospector/__Scripts/Card.cs using Guid(100a12af089e19845beeba3dc7d93c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18f038a7519eaaa0b71beb8db6627f49') in 0.013367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 188.292054 seconds.
+  path: Assets/Prospector/__Scripts/Deck.cs
+  artifactKey: Guid(2b69c28581428da469438d7d5901b8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prospector/__Scripts/Deck.cs using Guid(2b69c28581428da469438d7d5901b8ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b9fd2be2bae33efe568dc485b44b86c') in 0.001903 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.719085 seconds.
+  path: Assets/Prospector/__Scripts/ScoreManager.cs
+  artifactKey: Guid(353e4b4ca270541e3bcfd336b41bdbad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prospector/__Scripts/ScoreManager.cs using Guid(353e4b4ca270541e3bcfd336b41bdbad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5409e2ba685edeb72f219dd90a55defa') in 0.002846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 68.723701 seconds.
+  path: Assets/Prospector/__Scripts/FloatingScore.cs
+  artifactKey: Guid(65fc8fcfb3f1649d591ba10d99c55757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prospector/__Scripts/FloatingScore.cs using Guid(65fc8fcfb3f1649d591ba10d99c55757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5177f0ff1f56dda5b3166b6870f26a2c') in 0.003780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 70.320694 seconds.
+  path: Assets/Prospector/__Scripts/FloatingScore.cs
+  artifactKey: Guid(65fc8fcfb3f1649d591ba10d99c55757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prospector/__Scripts/FloatingScore.cs using Guid(65fc8fcfb3f1649d591ba10d99c55757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '531fd1617c50fd53f2926ada4f4fc6b3') in 0.002475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.303531 seconds.
+  path: Assets/Prospector/__Scripts/CardProspector.cs
+  artifactKey: Guid(59f45e50e549a449ba7224055934e955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prospector/__Scripts/CardProspector.cs using Guid(59f45e50e549a449ba7224055934e955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '784e43ba4a91dba12feb1a1e82398625') in 0.002901 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.773621 seconds.
+  path: Assets/Prospector/__Scripts/ScoreBoard.cs
+  artifactKey: Guid(1adde9dcc8c4142c4aa13da78b222438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prospector/__Scripts/ScoreBoard.cs using Guid(1adde9dcc8c4142c4aa13da78b222438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4547adee6eaa48a4622b89fc408fbc8b') in 0.002908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.988684 seconds.
+  path: Assets/Prospector/__Scripts/Scoreboard.cs
+  artifactKey: Guid(1adde9dcc8c4142c4aa13da78b222438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prospector/__Scripts/Scoreboard.cs using Guid(1adde9dcc8c4142c4aa13da78b222438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ddd46a9d66f2502c28bdad764f4681c') in 0.001901 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.450694 seconds.
+  path: Assets/Prospector/__Scripts/Scoreboard.cs
+  artifactKey: Guid(1adde9dcc8c4142c4aa13da78b222438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prospector/__Scripts/Scoreboard.cs using Guid(1adde9dcc8c4142c4aa13da78b222438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ad35db1f630f6b47287354422029f9') in 0.002112 seconds 
