@@ -2,17 +2,23 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CardProspector : MonoBehaviour
+public enum eCardState
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    drawpile,
+    tableau,
+    target,
+    discard
+}
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+public class CardProspector : Card
+{
+    public eCardState state = eCardState.drawpile;
+    public List<CardProspector> hiddenBy = new List<CardProspector>();
+    public int layoutID;
+    public SlotDef slotDef;
+
+    override public void OnMouseUpAsButton() {
+        Prospector.P.CardClicked(this);
+        base.OnMouseUpAsButton();
     }
 }
