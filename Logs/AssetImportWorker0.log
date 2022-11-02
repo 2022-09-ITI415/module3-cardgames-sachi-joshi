@@ -780,3 +780,9 @@ Received Import Request.
   path: Assets/Prospector/_Prefabs/PrefabCard.prefab
   artifactKey: Guid(ee93767be21efa14eaa16db1093e90b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prospector/_Prefabs/PrefabCard.prefab using Guid(ee93767be21efa14eaa16db1093e90b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed199c125baf3f67fc66d930bdc02bcb') in 0.096802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 381.388186 seconds.
+  path: Assets/Prospector/_Prefabs/PrefabFloatingScore.prefab
+  artifactKey: Guid(888a070946eb942e496e35b5fc54824e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prospector/_Prefabs/PrefabFloatingScore.prefab using Guid(888a070946eb942e496e35b5fc54824e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '481be7482534e1abc1201bc4af86f0ab') in 0.012587 seconds 
