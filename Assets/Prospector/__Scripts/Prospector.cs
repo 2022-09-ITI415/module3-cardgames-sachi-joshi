@@ -342,7 +342,7 @@ public class Prospector : MonoBehaviour
                 fsPts = new List<Vector2>();
                 fsPts.Add(p0);
                 fsPts.Add(fsPosMid);
-                //fsPts.Add(fsPosRun);
+                fsPts.Add(fsPosRun);
 
                 fs = Scoreboard.S.CreateFloatingScore(ScoreManager.CHAIN, fsPts);
                 fs.fontSizes = new List<float>(new float[] { 4, 50, 28 });
