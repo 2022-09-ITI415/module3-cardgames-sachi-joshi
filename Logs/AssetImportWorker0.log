@@ -225,3 +225,88 @@ Received Import Request.
   path: Assets/OtherGame/FloatingScore.cs
   artifactKey: Guid(2fd6bafa45067487aa401fc03517d676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/OtherGame/FloatingScore.cs using Guid(2fd6bafa45067487aa401fc03517d676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99cb7662a3c036d170c0f75d89c3f7be') in 0.003298 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 160.663547 seconds.
+  path: Assets/OtherGame/Prospector.cs
+  artifactKey: Guid(fc0dcd0f0293442f2a5b215e8e9059ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OtherGame/Prospector.cs using Guid(fc0dcd0f0293442f2a5b215e8e9059ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7303ca45ead49b08737b82282017ed0') in 0.002739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.843549 seconds.
+  path: Assets/OtherGame/ScoreM.cs
+  artifactKey: Guid(0901f88d0534b4e76baa4e5b1af227a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OtherGame/ScoreM.cs using Guid(0901f88d0534b4e76baa4e5b1af227a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcc9e17f3afd860740b4dbf9050bb2db') in 0.002316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.236500 seconds.
+  path: Assets/OtherGame/ScoreManager.cs
+  artifactKey: Guid(0901f88d0534b4e76baa4e5b1af227a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OtherGame/ScoreManager.cs using Guid(0901f88d0534b4e76baa4e5b1af227a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472919c60e9bcd59f0155cc9e6b1fd81') in 0.002768 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.830607 seconds.
+  path: Assets/OtherGame/Scoreboard.cs
+  artifactKey: Guid(95961214c0532457ba24beb5644da025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OtherGame/Scoreboard.cs using Guid(95961214c0532457ba24beb5644da025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f7b3cd417ec08c3b325554bd0f4aa46') in 0.003158 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002748 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.353 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1354ms)
+		BeginReloadAssembly (246ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (21ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (108ms)
+		EndReloadAssembly (931ms)
+			LoadAssemblies (91ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (367ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (383ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (51ms)
+				ProcessInitializeOnLoadAttributes (282ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1694 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 12 unused Assets / (21.9 KB). Loaded Objects now: 2170.
+Memory consumption went from 167.4 MB to 167.3 MB.
+Total: 3.821061 ms (FindLiveObjects: 0.195319 ms CreateObjectMapping: 0.201110 ms MarkObjects: 3.387212 ms  DeleteObjects: 0.036367 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 130.470025 seconds.
+  path: Assets/OtherGame/ScoreManager.cs
+  artifactKey: Guid(0901f88d0534b4e76baa4e5b1af227a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OtherGame/ScoreManager.cs using Guid(0901f88d0534b4e76baa4e5b1af227a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3761e286a8ff2524596d2cae5a7a8dd9') in 0.004710 seconds 
