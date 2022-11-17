@@ -201,3 +201,27 @@ Received Import Request.
   path: Assets/OtherGame/Card.cs
   artifactKey: Guid(deb9d561773e64869b1c350973c836b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/OtherGame/Card.cs using Guid(deb9d561773e64869b1c350973c836b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d5f833c3cebc40ca0cd7852b2b3bb7b') in 0.002651 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 268.311329 seconds.
+  path: Assets/OtherGame/Deck.cs
+  artifactKey: Guid(de0b42b1f4a124f168de8dd4eddd0b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OtherGame/Deck.cs using Guid(de0b42b1f4a124f168de8dd4eddd0b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27f590a2f573d25712789b2ffb81d591') in 0.003122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.856905 seconds.
+  path: Assets/OtherGame/Layout.cs
+  artifactKey: Guid(cf3650abb63234aeb928af81c134eb5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OtherGame/Layout.cs using Guid(cf3650abb63234aeb928af81c134eb5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '280b7e876d811d275acb7cc35b2ea8be') in 0.001629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.325464 seconds.
+  path: Assets/OtherGame/CardProspector.cs
+  artifactKey: Guid(2208569bdcf034513a6517c7b02675ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OtherGame/CardProspector.cs using Guid(2208569bdcf034513a6517c7b02675ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '726072b9bb4e9504fc099ffff864fafa') in 0.002833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 101.193522 seconds.
+  path: Assets/OtherGame/FloatingScore.cs
+  artifactKey: Guid(2fd6bafa45067487aa401fc03517d676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OtherGame/FloatingScore.cs using Guid(2fd6bafa45067487aa401fc03517d676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99cb7662a3c036d170c0f75d89c3f7be') in 0.003298 seconds 
