@@ -552,7 +552,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deckXML: {fileID: 4900000, guid: a5d9b708d734743169a575c10fca1ed9, type: 3}
-  layoutXML: {fileID: 4900000, guid: 57de7dab6571d4674a6bb879daa67f36, type: 3}
+  layoutXML: {fileID: 4900000, guid: 61f3f05951a2f4d98b35bddbc7549908, type: 3}
   xOffset: 3
   yOffset: -2.5
   layoutCenter: {x: 0, y: 0, z: 0}
