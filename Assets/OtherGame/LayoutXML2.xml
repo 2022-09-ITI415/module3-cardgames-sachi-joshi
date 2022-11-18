@@ -1,5 +1,5 @@
 <xml>
-	<!-- This file holds info for laying out the Prospector card game. -->
+	<!-- This file holds info for laying out the Golf card game. -->
 
 	<!-- The multiplier is multiplied by the x and y attributes below. -->
 
@@ -82,4 +82,3 @@
 	<slot type="discardpile" x="-3" y="-5" layer="5"/>
 	
 </xml>
-	
