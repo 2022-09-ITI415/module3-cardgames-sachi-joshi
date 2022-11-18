@@ -12,7 +12,7 @@ public class Prospector : MonoBehaviour {
 
 	[Header("Set in Inspector")]
 	public TextAsset deckXML;
-    public TextAsset layoutXML;
+    public TextAsset layoutXML2;
     public float xOffset = 3;
     public float yOffset = -2.5f;
     public Vector3 layoutCenter;
@@ -83,7 +83,7 @@ public class Prospector : MonoBehaviour {
         Deck.Shuffle(ref deck.cards); // This shuffles the deck by reference
 
         layout = GetComponent<Layout>(); // Get the Layout component
-        layout.ReadLayout(layoutXML.text); // Pass LayoutXML to it4
+        layout.ReadLayout(layoutXML2.text); // Pass LayoutXML to it4
 
         drawPile = ConvertListCardsToListCardProspectors(deck.cards);
         LayoutGame();
